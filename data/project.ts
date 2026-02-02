@@ -176,6 +176,24 @@ export interface Project {
           techStack: ['AWS S3']
         }
       ]
+    },
+    {
+      id: 'ckad-study',
+      title: 'CKAD Certification Study',
+      category: 'personal',
+      liveUrl: 'https://github.com/tldms1119/Kubernetes-Study-Notes',
+      role: 'Consistent Learner',
+      overview: 'Learning Kubernetes, a critical orchestration platform for modern deployments, while preparing for the CKAD certification.',
+      contributions: [
+        {
+          area: 'DevOps',
+          percentage: 100,
+          description: [
+            'Learning Kubernetes, a critical orchestration platform for modern deployments, while preparing for the CKAD certification.'
+          ],
+          techStack: ['Kubernetes']
+        }
+      ]
     }
   ];
   

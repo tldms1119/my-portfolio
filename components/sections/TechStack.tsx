@@ -15,7 +15,7 @@ const techData = {
     backend: ['Java Spring Boot'],
     frontend: ['Next.js', 'Flutter'],
     database: ['PostgreSQL', 'DynamoDB'],
-    devops: ['AWS API Gateway', 'AWS Lambda', 'AWS S3']
+    devops: ['AWS API Gateway', 'AWS Lambda', 'AWS S3', 'Kubernetes']
   }
 };
 
